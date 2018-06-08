@@ -1,6 +1,6 @@
-# Adriennes's Project
+# Adriennes's Portfolio
 
-Project 4 uses dogs-api to show pictures of the dog breed that is entered in the search bar.
+This portfolio is a collection of CIT minor requirements and Adrienne's projects done in CIS 110, CIS 111, and CIT 281.
 
 ## Deployment
 
